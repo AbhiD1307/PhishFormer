@@ -1,7 +1,7 @@
 # PhishFormer — Phishing Email Detection via From-Scratch Transformer Encoder
 
 **CSS 586 · Deep Learning & AI · University of Washington Bothell**
-Abhishek Deshmukh · Spring 2026
+Spring 2026
 
 ---
 
