@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data (large files — download separately per README)
+data/enron_mail_20150507/
+data/ceas_2008.csv
+data/processed/
+
+# Model checkpoints (large binaries)
+checkpoints/best_model.pt
+checkpoints/*.pt
+
+# Keep generated JSON and PNG results
+!results/**
+!checkpoints/history.json
+!checkpoints/*.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
